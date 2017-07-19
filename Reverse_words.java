@@ -23,7 +23,7 @@ public class Reverse_words {
 
 			}
 		} finally {
-			sc.close();
+			sc.close();//Close scanner.
 
 		}
 		String test, pop[], reversetest = "";
